@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FlagQuiz</string>
+    <string-array name="listaRegioes">
+        <item>Africa</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>North_America</item>
+        <item>Oceania</item>
+        <item>South_America</item>
+    </string-array>
+    <string-array name="listaOpcoes">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+    <string name="erro">ERROUUU</string>
+    <string name="escolhas">Alternativas</string>
+    <string name="regioes">Regiões</string>
+
+</resources>
